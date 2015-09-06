@@ -1,0 +1,6 @@
+name = "Clayton William"
+
+puts name.upcase  # returns uppercase
+puts name.downcase  # returns lowercase
+
+
